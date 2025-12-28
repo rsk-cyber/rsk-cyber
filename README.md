@@ -12,8 +12,8 @@ I am actively pursuing a Tier 1 SOC Analyst role, focused on monitoring, detecti
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Attack Detection             | <a href="https://google.com">Detection Lab</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Active Directory Attack Detection             | <a href="https://google.com">Active Directory Project</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Active Directory Project</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Malware Analysis                              | <a href="https://google.com">Detection Lab</a>|
 | Phishing Analysis                             | <a href="https://google.com">Detection Lab</a>|
