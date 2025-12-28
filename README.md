@@ -15,7 +15,8 @@ I am actively pursuing a Tier 1 SOC Analyst role, focused on monitoring, detecti
 | Active Directory Attack Detection             | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Malware Analysis         | <a href="https://google.com">Detection Lab</a>|
+| Malware Analysis                              | <a href="https://google.com">Detection Lab</a>|
+| Phishing Analysis                             | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 
