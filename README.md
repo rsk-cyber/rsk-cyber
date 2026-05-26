@@ -12,7 +12,7 @@ I am actively pursuing a Tier 1 SOC Analyst role, focused on monitoring, detecti
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Phishing Analysis                             | <a href="https://github.com/rsk-cyber/Phishing-Investigation">Phishing Analysis</a>|
+| Phishing Analysis                             | <a href="https://github.com/rsk-cyber/Phishing-Investigation">Phishing Email Analysis</a>|
 | Malware Analysis                              | <a href="https://google.com">Active Directory Project</a>|
 | Network Forensic and Analysis                 | <a href="https://google.com">Detection Lab</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|                            
