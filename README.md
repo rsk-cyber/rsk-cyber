@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/rasaqadebayo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a Civil/structural engineer with academic training in engineering and project management, currently transitioning into cybersecurity. My interest lies in understanding how digital systems support and secure modern infrastructure. Through hands-on learning and continuous practice, I am building a strong foundation in security operations, monitoring, and threat detection.
+Microsoft Certified Security Operations Analyst with hands-on experience in security monitoring, alert triage, incident investigation, and threat detection using Microsoft Defender XDR and Microsoft Sentinel. Skilled in malware analysis, windows memory forensic analysis, network traffic analysis, phishing investigations, and IOC enrichment using the MITRE ATT&CK framework. Experienced in collaborating with cross-functional teams to strengthen security operations, align security initiatives with business objectives, support compliance requirements, and drive continuous improvement within SOC environments.
 
 ## Objective
 
