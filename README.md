@@ -14,7 +14,7 @@ I am actively pursuing a Tier 1 SOC Analyst role, focused on monitoring, detecti
 |-----------------------------------------------|----------------------------|
 | Phishing Analysis                             | <a href="https://github.com/rsk-cyber/Phishing-Investigation">Phishing Email Analysis</a>|
 | Malware Analysis                              | <a href="https://github.com/rsk-cyber/Phishing-Investigation">Phishing Email Analysis</a>|
-| Network Forensic and Analysis                 | <a href="https://google.com">Detection Lab</a>|
+| Network Forensic and Analysis                 | <a href="https://google.com/rsk-cyber/Network-Forensic">Network Forensic</a>|
 | Memory Forensic and Analysis                 | <a href="https://github.com/rsk-cyber/Memory-Forensic-Analysis">Network Forensic</a>|
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|                            
 
