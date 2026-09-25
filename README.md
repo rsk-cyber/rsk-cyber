@@ -45,9 +45,9 @@ I am actively pursuing a Tier 1 SOC Analyst role, focused on monitoring, detecti
 </div>
 
 ## Projects
-- Active Directory Project
-- Detection Lab
-- SOC Automation Project
+- Malware Analysis
+- Network Forensic
+- SOC Automation Proje
   
 
 
